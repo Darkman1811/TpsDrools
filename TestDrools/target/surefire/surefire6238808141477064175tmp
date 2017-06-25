@@ -1,0 +1,34 @@
+#surefire
+#Sun Jun 25 22:09:24 GMT 2017
+testClassesDirectory=/media/super/YACINE LOGICIELS/TpsDrools/1/TestDrools/target/test-classes
+classPathUrl.4=/home/super/.m2/repository/org/kie/kie-api/6.0.1.Final/kie-api-6.0.1.Final.jar
+forkMode=once
+classPathUrl.3=/home/super/.m2/repository/org/drools/drools-core/6.0.1.Final/drools-core-6.0.1.Final.jar
+classPathUrl.2=/home/super/.m2/repository/org/drools/drools-compiler/6.0.1.Final/drools-compiler-6.0.1.Final.jar
+useManifestOnlyJar=true
+classPathUrl.1=/media/super/YACINE LOGICIELS/TpsDrools/1/TestDrools/target/classes
+reportsDirectory=/media/super/YACINE LOGICIELS/TpsDrools/1/TestDrools/target/surefire-reports
+classPathUrl.0=/media/super/YACINE LOGICIELS/TpsDrools/1/TestDrools/target/test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=/media/super/YACINE LOGICIELS/TpsDrools/1/TestDrools/src/test/java
+surefireClassPathUrl.1=/home/super/.m2/repository/org/apache/maven/surefire/surefire-api/2.10/surefire-api-2.10.jar
+surefireClassPathUrl.0=/home/super/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.10/surefire-junit3-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+classPathUrl.13=/home/super/.m2/repository/org/slf4j/slf4j-api/1.7.2/slf4j-api-1.7.2.jar
+includes0=**/Test*.java
+classPathUrl.12=/home/super/.m2/repository/com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar
+classPathUrl.11=/home/super/.m2/repository/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar
+classPathUrl.10=/home/super/.m2/repository/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+classPathUrl.9=/home/super/.m2/repository/com/thoughtworks/xstream/xstream/1.4.3/xstream-1.4.3.jar
+classPathUrl.8=/home/super/.m2/repository/org/mvel/mvel2/2.1.8.Final/mvel2-2.1.8.Final.jar
+classPathUrl.7=/home/super/.m2/repository/org/eclipse/jdt/core/compiler/ecj/3.7.2/ecj-3.7.2.jar
+childDelegation=false
+classPathUrl.6=/home/super/.m2/repository/org/antlr/antlr-runtime/3.5/antlr-runtime-3.5.jar
+classPathUrl.5=/home/super/.m2/repository/org/kie/kie-internal/6.0.1.Final/kie-internal-6.0.1.Final.jar
