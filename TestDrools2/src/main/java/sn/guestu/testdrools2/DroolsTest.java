@@ -24,12 +24,13 @@ public class DroolsTest {
 			KieSession kSession = kContainer.newKieSession("ksession-rule");
 
 			Product product = new Product();
-			product.setType("gold");
+			product.setType("wood");
 
 			FactHandle fact1;
                   if(kSession==null) System.out.println("kSesison null");
 			fact1 = kSession.insert(product);
 			kSession.fireAllRules();
+                        
 
 			System.out.println("The discount for the jewellery product "
 					+ product.getType() + " is " + product.getDiscount());

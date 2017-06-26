@@ -1,0 +1,6 @@
+#surefire
+#Mon Jun 26 00:15:45 GMT 2017
+maven.ext.class.path=/usr/local/netbeans-8.0.2/java/maven-nblib/netbeans-eventspy.jar
+user.dir=/media/super/YACINE LOGICIELS/TpsDrools/1/TestDrools2
+localRepository=/home/super/.m2/repository
+basedir=/media/super/YACINE LOGICIELS/TpsDrools/1/TestDrools2
